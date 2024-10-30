@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Deploy to Cloudflare](https://github.com/whitehiyuri/UptimeFlare/actions/workflows/deploy.yml/badge.svg?branch=main&event=check_run)](https://github.com/whitehiyuri/UptimeFlare/actions/workflows/deploy.yml)
 <!--
 **whitehiyuri/whitehiyuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
